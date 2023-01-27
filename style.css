@@ -1,0 +1,25 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+    nav>a{
+        color: #D1FEFE ;
+            text-decoration: none;
+    }
+    header{
+        padding: 10px 5%;
+        background-color: #282828 ;
+        color: #D1FEFE ;
+        position: fixed;
+        top:0;
+        left:0;
+        width:100%
+    }
+    body{
+        background-color: #D1FEFE ;
+            
+    }
+    .text{
+            
+        color:#000000
+    }
+    article{display: center ;}
+</style>
